@@ -38,7 +38,7 @@ npm-debug.log
 Thumbs.db
 
 # Ignore built ts files
-dist/**/*
+#dist/**/*
 bundles
 docs/_dist
 admin/public/styles/auth.css

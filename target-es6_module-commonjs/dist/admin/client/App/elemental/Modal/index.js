@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var body_1 = require("./body");
+exports.ModalBody = body_1.ModalBody;
+var dialog_1 = require("./dialog");
+exports.ModalDialog = dialog_1.ModalDialog;
+var footer_1 = require("./footer");
+exports.ModalFooter = footer_1.ModalFooter;
+var header_1 = require("./header");
+exports.ModalHeader = header_1.ModalHeader;
