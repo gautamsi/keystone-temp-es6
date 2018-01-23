@@ -1,0 +1,6 @@
+todo:
+
+~1: properly inherit form FieldType in all fieldtypes~ 
+    except cloudinary types
+
+2. properly fix tests in fieldtypes
